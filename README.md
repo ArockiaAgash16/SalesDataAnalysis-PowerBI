@@ -89,7 +89,7 @@ Detailed Order-wise Metrics:
 ![image](https://github.com/user-attachments/assets/2409f5eb-b6dd-403e-bffb-4f176110beba)
 
 ## 🔗 Live Dashboard
-[Check it out on NovyPro (add link after upload)]
+https://app.powerbi.com/view?r=eyJrIjoiMWM2OGEyYzktMzk3Yy00NTVlLWJjOTEtM2QyNzY0OTI0YWY3IiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
 
 ## ✅ How to Use
 
