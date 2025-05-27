@@ -52,19 +52,19 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
  
 ## 🛠️ Tools & Techniques
 
-    Power BI Desktop
-    
-    Power Query Editor: Data cleaning, new column creation, and pre-model transformations
-    
-    DAX Measures: KPIs, period comparisons, dynamic filtering
-    
-    USERELATIONSHIP-based dynamic relationship management
-    
-    Structured Data Modeling with multiple Date tables and relationship strategies
-    
-    Slicer-driven interactive filtering
-    
-    Clean multi-tab report layout
+* Power BI Desktop
+
+* Power Query Editor: Data cleaning, new column creation, and pre-model transformations
+
+* DAX Measures: KPIs, period comparisons, dynamic filtering
+
+* USERELATIONSHIP-based dynamic relationship management
+
+* Structured Data Modeling with multiple Date tables and relationship strategies
+
+* Slicer-driven interactive filtering
+
+* Clean multi-tab report layout
 
 ## 📸 Dashboard Preview
 (Optional: insert screenshot later)
@@ -74,22 +74,22 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 
 ## ✅ How to Use
 
-Download the .pbix file.
+* Download the .pbix file.
 
-Open with Power BI Desktop (2023 May or newer).
+* Open with Power BI Desktop (2023 May or newer).
 
-Use slicers and visuals for real-time interactive analysis.
+* Use slicers and visuals for real-time interactive analysis.
 
 ## 📝 Technical Highlights
 
-Multi-tabbed modular report design
+* Multi-tabbed modular report design
 
-Advanced USERELATIONSHIP DAX implementation for dual-period comparisons
+* Advanced USERELATIONSHIP DAX implementation for dual-period comparisons
 
-Dynamic slicer-based filtering using DAX-driven filter measures
+* Dynamic slicer-based filtering using DAX-driven filter measures
 
-Data cleaning, transformation, and derived columns in Power Query
+* Data cleaning, transformation, and derived columns in Power Query
 
-Seamless interactivity between Table Visuals and slicers for granular analysis
+* Seamless interactivity between Table Visuals and slicers for granular analysis
 
-Geographical mapping and KPI cards for business metrics
+* Geographical mapping and KPI cards for business metrics
