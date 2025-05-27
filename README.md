@@ -37,17 +37,18 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 
 #### 📋 Table Visual showing Sales, Profit, Discount, Net Sales, and all remaining order fields.
 
-Interactive Product, Date, Customer ID, Promotion Category slicers.
-    
-   Custom DAX measure (Sum of Net Sales) acts as a dynamic filter controller:
+#### Interactive Product, Date, Customer ID, Promotion Category slicers.
+
+#### Custom DAX measure (Sum of Net Sales) acts as a dynamic filter controller:
       
-   Ensures slicers affect visuals only when related data exists.
+##### Ensures slicers affect visuals only when related data exists.
       
-   Seamless interactivity across fields.
+##### Seamless interactivity across fields.
 
 ## 📦 Dataset Details
 
  Type: Store Data Dataset
+ 
  Source: Kaggle
 
 ## 🛠️ Tools & Techniques
