@@ -1,11 +1,11 @@
-## 📊 Sales Data Analysis | Power BI Dashboard
+# 📊 Sales Data Analysis | Power BI Dashboard
 
-# 📌 Project Overview
+## 📌 Project Overview
 This Power BI project delivers a comprehensive analysis of ElectroHub's sales data, uncovering key patterns in product sales, profit margins, discount behavior, and customer order trends. The dashboard is crafted to empower business users with actionable insights through interactive, slicer-driven analytics.
 
-# 🎯 Dashboard Features
+## 🎯 Dashboard Features
 
-📌 Overview Tab:
+### 📌 Overview Tab:
 
    📈 Sales Trends Analysis (Line Chart): Daily, Monthly, Quarterly, and Annually.
     
@@ -17,11 +17,11 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
     
    🌎 Sales by Cities (Map Visual)
 
-📌 Top/Bottom 5 Analysis Tab:
+### 📌 Top/Bottom 5 Analysis Tab:
    
    🥇 Top 5 and Bottom 5 Products by Sales, Profit, Quantity Sold (dedicated tab)
 
-📌 Comparison Tab:
+### 📌 Comparison Tab:
     
    📊 Without DAX:
     Two slicers with stacked bar charts comparing Sales, Profit, Quantity Sold for different periods.
@@ -33,9 +33,9 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
     
     Sum of Net Sales = CALCULATE(SUM('Fact Table'[Net Sales]), ALL('Date Table 1'[Date]),USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
     
-📌 Detailed Order-wise Metrics:
+### 📌 Detailed Order-wise Metrics:
 
-📋 Table Visual showing Sales, Profit, Discount, Net Sales, and all remaining order fields.
+#### 📋 Table Visual showing Sales, Profit, Discount, Net Sales, and all remaining order fields.
 
 Interactive Product, Date, Customer ID, Promotion Category slicers.
     
@@ -45,12 +45,12 @@ Interactive Product, Date, Customer ID, Promotion Category slicers.
       
    Seamless interactivity across fields.
 
-📦 Dataset Details
+## 📦 Dataset Details
 
  Type: Store Data Dataset
  Source: Kaggle
 
-🛠️ Tools & Techniques
+## 🛠️ Tools & Techniques
 
     Power BI Desktop
     
@@ -66,13 +66,13 @@ Interactive Product, Date, Customer ID, Promotion Category slicers.
     
     Clean multi-tab report layout
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 (Optional: insert screenshot later)
 
-🔗 Live Dashboard
+## 🔗 Live Dashboard
 [Check it out on NovyPro (add link after upload)]
 
-✅ How to Use
+## ✅ How to Use
 
 Download the .pbix file.
 
@@ -80,7 +80,7 @@ Open with Power BI Desktop (2023 May or newer).
 
 Use slicers and visuals for real-time interactive analysis.
 
-📝 Technical Highlights
+## 📝 Technical Highlights
 
 Multi-tabbed modular report design
 
