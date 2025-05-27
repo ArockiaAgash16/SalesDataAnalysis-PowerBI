@@ -48,10 +48,8 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 
 ## 📦 Dataset Details
 
- Type: Store Data Dataset
+   Store Data Dataset which consists of 4 Tables (Customer, Product, Promotion details and Order Details (Fact Table)).
  
- Source: Kaggle
-
 ## 🛠️ Tools & Techniques
 
     Power BI Desktop
