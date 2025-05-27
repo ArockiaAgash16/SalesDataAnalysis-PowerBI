@@ -69,18 +69,23 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 ## 📸 Dashboard Preview
 
 Top/Bottom 5 Analysis Tab:
+
 ![image](https://github.com/user-attachments/assets/f38c269f-d497-4882-b202-59fb3302e30e)
 
 Overview Tab:
+
 ![image](https://github.com/user-attachments/assets/624d41f7-4bdb-4070-a43c-7f2cbaecee44)
 
 Comparison Tab without DAX:
+
 ![image](https://github.com/user-attachments/assets/7677b90b-12ee-4a0a-9564-d8a991b91869)
 
 Comparison Tab with DAX:
+
 ![image](https://github.com/user-attachments/assets/848d2700-9a21-46cf-b41f-f450b8731995)
 
 Detailed Order-wise Metrics:
+
 ![image](https://github.com/user-attachments/assets/2409f5eb-b6dd-403e-bffb-4f176110beba)
 
 ## 🔗 Live Dashboard
