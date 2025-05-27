@@ -41,9 +41,10 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 
 #### Custom DAX measure (Sum of Net Sales) acts as a dynamic filter controller:
       
-   Ensures slicers affect visuals only when related data exists.
+  * Ensures slicers affect visuals only when related data exists.
       
-   Seamless interactivity across fields.
+  * Seamless interactivity across fields.
+   
 
 ## 📦 Dataset Details
 
