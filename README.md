@@ -23,10 +23,10 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
 
 📌 Comparison Tab:
     
-    📊 Without DAX:
+   📊 Without DAX:
     Two slicers with stacked bar charts comparing Sales, Profit, Quantity Sold for different periods.
     
-    📊 With DAX:
+   📊 With DAX:
     Created two Date tables (one active, one inactive) and used USERELATIONSHIP in a measure to enable dual-period comparison on demand:
 
     Sample DAX Query:
@@ -35,21 +35,20 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
     
 📌 Detailed Order-wise Metrics:
 
-    📋 Table Visual showing Sales, Profit, Discount, Net Sales, and all remaining order fields.
+📋 Table Visual showing Sales, Profit, Discount, Net Sales, and all remaining order fields.
 
-    Interactive Product, Date, Customer ID, Promotion Category slicers.
+Interactive Product, Date, Customer ID, Promotion Category slicers.
     
-      Custom DAX measure (Sum of Net Sales) acts as a dynamic filter controller:
+   Custom DAX measure (Sum of Net Sales) acts as a dynamic filter controller:
       
-      Ensures slicers affect visuals only when related data exists.
+   Ensures slicers affect visuals only when related data exists.
       
-      Seamless interactivity across fields.
+   Seamless interactivity across fields.
 
 📦 Dataset Details
 
-    Type: Store Data Dataset
-
-    Source: Kaggle
+ Type: Store Data Dataset
+ Source: Kaggle
 
 🛠️ Tools & Techniques
 
