@@ -1,7 +1,7 @@
-# 📊 Sales Data Analysis | Power BI Dashboard
+# 📊 Sales Data Analysis | Power BI Report
 
 ## 📌 Project Overview
-This Power BI project delivers a comprehensive analysis of ElectroHub's sales data, uncovering key patterns in product sales, profit margins, discount behavior, and customer order trends. The dashboard is crafted to empower business users with actionable insights through interactive, slicer-driven analytics.
+This Power BI project delivers a comprehensive analysis of ElectroHub's sales data, uncovering key patterns in product sales, profit margins, discount behavior, and customer order trends. The report is crafted to empower business users with actionable insights through interactive, slicer-driven analytics.
 
 ## 🎯 Dashboard Features
 
@@ -88,7 +88,7 @@ Detailed Order-wise Metrics:
 
 ![image](https://github.com/user-attachments/assets/2409f5eb-b6dd-403e-bffb-4f176110beba)
 
-## 🔗 Live Dashboard
+## 🔗 Live Report
 https://app.powerbi.com/view?r=eyJrIjoiMWM2OGEyYzktMzk3Yy00NTVlLWJjOTEtM2QyNzY0OTI0YWY3IiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
 
 ## ✅ How to Use
