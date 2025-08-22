@@ -45,6 +45,9 @@ This Power BI project delivers a comprehensive analysis of ElectroHub's sales da
       
   * Seamless interactivity across fields.
    
+## 📦 Live Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiMWM2OGEyYzktMzk3Yy00NTVlLWJjOTEtM2QyNzY0OTI0YWY3IiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
 
 ## 📦 Dataset Details
 
